@@ -1,0 +1,6 @@
+{
+  "name": "DhanAmit Gaming & Secure Wallet",
+  "description": "DhanAmit - प्रीमियम डार्क थीम गेमिंग प्लेटफॉर्म और सुरक्षित वॉलेट। अपनी मर्जी से UPI ID जोड़ें, बैलेंस देखें और OTP/पिन वेरिफिकेशन के साथ सुरक्षित पैसे विड्रॉ करें।",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
